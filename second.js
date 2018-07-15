@@ -1,1 +1,1 @@
-console.log("log from second file");
+console.log("іт з меседжом “initi");
